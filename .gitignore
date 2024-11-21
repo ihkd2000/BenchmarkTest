@@ -1,0 +1,13 @@
+# Ignore the bu ild folder
+build/
+
+# Ignore the .vs
+.vs/
+
+# Ignore the bin
+bin/
+# Ignore the obj
+obj/
+
+# Ignore the BenchmarkDotNet.Artifacts
+BenchmarkDotNet.Artifacts/
